@@ -50,7 +50,7 @@ HTML5 `<audio>` API with JavaScript controls
 How to Run
 
 1️⃣ Clone the repository
-
+https://github.com/SurajTamang-22/CodeAlpha_MUSIC-PLAYER
 
 
 2️⃣ Open the project folder
